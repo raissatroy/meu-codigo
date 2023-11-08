@@ -14,3 +14,32 @@
  <p>Esta página demonstra o uso de meta tags na HTML.</p>
 </body>
 </html>
+
+
+
+<header>
+ <h1>Exemplo de Uso das Tags de Separação de Conteúdo</h1>
+</header>
+
+<nav>
+ <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#sobre">Sobre</a></li>
+    <li><a href="#contato">Contato</a></li>
+ </ul>
+</nav>
+
+<main>
+ <section id="home">
+    <h2>Home</h2>
+    <p>Esta é a seção Home.</p>
+ </section>
+
+ <section id="sobre">
+    <h2>Sobre</h2>
+    <p>Esta é a seção Sobre.</p>
+ </section>
+
+ <section id="contato">
+    <h2>Contato</h2>
+    <
